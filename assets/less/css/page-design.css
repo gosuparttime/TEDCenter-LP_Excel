@@ -1,0 +1,14 @@
+#wrapper {
+  position: relative;
+}
+.hero-image {
+  position: absolute;
+}
+.hero-image .su-brand {
+  position: absolute;
+  top: 2em;
+}
+.hero-image .site-title {
+  position: absolute;
+  bottom: 0;
+}
